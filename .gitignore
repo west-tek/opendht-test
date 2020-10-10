@@ -1,0 +1,15 @@
+# KDevelop
+.kdev4/
+*.kdev4
+
+# VSCode
+.vscode/*
+
+# Eclipse CDT
+.cproject
+.project
+.autotools
+language.settings.xml
+
+# build dir
+build
